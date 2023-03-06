@@ -9,7 +9,7 @@
 </head>
 <body>
     <div class="container" style="display: flex; justify-content: center;margin-top: 200px;">
-        <form action="index.php" method="POST">
+        <form action="p" method="POST">
             <h1>Olá, calcule a sua idade.</h1>
             <div class="mb-3">
                 <input type="number" class="form-control" id="exampleFormControlInput1" placeholder="Write here year you were born" name="idade">
